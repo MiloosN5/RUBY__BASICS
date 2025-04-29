@@ -23,7 +23,7 @@ puts 42.5.class # Float
 puts "Hi".class # String
 puts [1, 2, 3].class # Array
 puts true.class # TrueClass
-puts false.class #FalseClss
+puts false.class #FalseClass
 # puts True.class # uninitialized constant True (NameError)
 puts 0.class # Integer
 puts [].class # Array
