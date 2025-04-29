@@ -36,7 +36,7 @@ puts :name.class # Symbol
 
 # Constants
 
-pi1 = 3.14
+pi = 3.14
 pi = 5.5
 puts pi # 5.5
 PI = 3.14 # warning: previous definition of PI was here
